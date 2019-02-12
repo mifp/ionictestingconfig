@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<testsuite name="HeadlessChrome 71.0.3578 (Mac OS X 10.14.2)" package="" timestamp="2019-02-06T15:13:11" id="0" hostname="michaels-mbp.dsb.dk" tests="40" errors="0" failures="0" time="0.053">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/71.0.3578.98 Safari/537.36"/>
+  </properties>
+  <testcase name="Provider: Test EBK provider and ticket validation Ran all ticket validations" time="0.003" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DOT Pendler Card" time="0.002" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket Employee, no longer employed (BILL-1117)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket Employee, valid (BILL-1117)" time="0.001" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DSB Periodekort (Manual) (BILL-1130)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DSB Pendler 1' (Manual) (BILL-1140)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DSB Ungdomskort (Manual) (BILL-1144)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DSB Fribefordringskort Folketingsmedlem (BILL-1119)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DSB App Periodekort (BILL-1126)" time="0.001" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket Some Ticket" time="0.002" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DSB Pendler Zone-to-Zone" time="0.002" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DSB 1 with seat" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket Zone-til-Zone billet (BILL-1129)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket Ung Klapsæde Refunderet (BILL-1142)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket Ung Klapsæde (BILL-1143)" time="0.001" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket Få tiden tilbage (BILL-1121)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DSB 1' Århus -> KBH (BILL-1122)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DSB 1' Orange (BILL-1123)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DSB Orange Fri (BILL-1124) - EBK UAT" time="0.001" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DSB Orange (BILL-1125) - EBK UAT" time="0.002" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket Rejsekort Personligt DSB 1'" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket Multi-start zones (BILL-1139)" time="0.001" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DOT Zonebillet, voksen fra 1 i 7 zoner (BILL-1128)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DOT Zonebillet, barn fra 1 i 2 zoner (BILL-1128)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DOT Zonebillet, voksen fra 1 i 2 zoner (BILL-1128)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DOT 24 City Pass (BILL-1131)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DOT Storkøbenhavn (BILL-1149)" time="0.003" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DOT 72 City Pass (BILL-1132)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DOT DSB 1' RE Tillæg (BILL-1148)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DOT 24 Timer (BILL-1133)" time="0.001" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DOT DSB 1' RE (BILL-1135)" time="0.001" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DOT Cykelbillet (BILL-1134)" time="0.001" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DOT Tilkøbsbillet 1 zone (BILL-1136)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DOT Erhvervskort (BILL-1137)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DOT 72 Timer (BILL-1138)" time="0.001" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DOT 48 Timer Refunderet (BILL-1141)" time="0" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="Provider: Test EBK provider and ticket validation Validation result of each ticket DOT Tillæg til DSB 1' RE (BILL-1120)" time="0.001" classname="Provider: Test EBK provider and ticket validation"/>
+  <testcase name="PassengerTypeValidatorProvider Should be created" time="0.013" classname="PassengerTypeValidatorProvider"/>
+  <testcase name="PassengerTypeValidatorProvider Test injection of ValidatorProvider" time="0.01" classname="PassengerTypeValidatorProvider"/>
+  <testcase name="PassengerTypeValidatorProvider Validate PassengerType Test Validating Passenger Type" time="0.006" classname="PassengerTypeValidatorProvider"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
